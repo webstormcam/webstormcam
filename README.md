@@ -1,7 +1,7 @@
 
 -👋 Hi, I’m @webstormcam
 <br>
--👀 I’m interested in FrontEnd Development and Email Development
+-👀 I’m interested in FrontEnd Development
 <br>
 -🌱 I’m currently brushing up on HTML, CSS, and Javascript
 <br>
